@@ -597,14 +597,14 @@
     height: 525px; 
     width: 500px; 
     border-radius: 4px; 
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url('/images/pic2.png'); 
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url('https://tjthedev.github.io/Taniti-Island/images/pic2.png'); 
     background-size: cover; 
     position: relative; 
     color: #fff; 
 }
 
 .services__card:nth-child(2) {
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url('/images/pic3.png'); 
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgba(17, 17, 17, 0.6) 100%), url('https://tjthedev.github.io/Taniti-Island/images/pic3.png'); 
 }
 
 .services h2 {
