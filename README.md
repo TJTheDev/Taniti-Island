@@ -22,7 +22,7 @@ This tutorial was instrumental in guiding the foundational layout, styling, and 
 
 ## Website URL
 
-Experience the Taniti Island website: [Taniti Island Netlify Website](https://tjthedev-taniti-island.netlify.app/)
+Experience the Taniti Island website: [Taniti Island Netlify Website](https://taniti-island-2024.netlify.app/)
 
 ## Development Process
 
